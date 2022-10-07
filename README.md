@@ -5,4 +5,5 @@ Link : https://youtu.be/0aPLk2e2Z3g
 installation
 
 cd api && yarn install
+
 cd client && yarn install
