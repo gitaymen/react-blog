@@ -1,5 +1,5 @@
 # react-blog
-React Node.js MySQL Full Stack Blog App (YT: Lama Dev)
+React Node.js MySQL Full Stack Blog App (Credit YT: Lama Dev)
 Link : https://youtu.be/0aPLk2e2Z3g
 
 installation
